@@ -7,6 +7,7 @@ body {
   text-align: center;
   font-family: "Quicksand", "Courier New";
   background: linear-gradient(#FFFFFF, #000000);
+  background-size: 1200px 1200px;
 }
 
 p, a{
