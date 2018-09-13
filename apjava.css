@@ -1,12 +1,15 @@
 body {
   text-align: center;
   font-family: "Quicksand", "Courier New";
-  background: linear-gradient(#FFFFFF, #000000);
+  background-image: url("https://imgur.com/yUBibkS.jpg");
   background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
 
 p, a, th, td{
-  color: white;
+  color: black;
+  text-decoration: none;
 }
 
 table, th, td {
